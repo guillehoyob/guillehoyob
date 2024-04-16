@@ -15,10 +15,15 @@ bio: >
  
 {
   "repositories": [
+  
     {
+    
       "name": "NeuralNetwork_Neuroevolution",
+      
       "description": "Augment your cerebral cortex with bionic enhancements.",
+      
       "license": "MIT"
+      
     },
     {
       "name": "Quantum_Data_Encryption",
