@@ -13,10 +13,8 @@ bio: >
  
 ## 📜 Repositories and Licenses 📚
 
-  {
- 
+'''{
   "repositories": [
-  
     {
       "name": "NeuralNetwork_Neuroevolution",
       "description": "Augment your cerebral cortex with bionic enhancements.",
@@ -32,10 +30,8 @@ bio: >
       "description": "Embark on a journey through the surreal landscapes of AI-generated dreams.",
       "license": "CC-BY-NC-SA-4.0"
     }
-    
   ]
-  
- }
+}'''
  
 🔍 Venture into the shadowy depths of my repositories, each guarded by its own digital sigil. Tread lightly, for within lies the forbidden knowledge of the digital age. Remember, every tool bears a responsibility; wield them wisely, for they possess the power to shape reality itself. 😇
 
