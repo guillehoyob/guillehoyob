@@ -1,4 +1,6 @@
 # guillehoyob.exe initialized... 👾8️⃣
+
+
  
 🔭 **Data Scientist Ninja** | 🌌 **Machine Learning Oracle Sage** | ㊙️ **Data Alchemist (ETL)/(ELT)** <!--| 🤖 **GenAI Architect** | 💬 **Prompt Whisperer** | 📊 **Graph Sorcerer** | 🔮 **Futurist** -->
 
