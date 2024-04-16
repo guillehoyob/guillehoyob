@@ -15,7 +15,7 @@ bio: >
   From the clandestine depths of machine learning algorithms to the creation of sentient digital entities, I've traversed it all. My quest? To carve a path towards a sleeker, smarter future, where complexity kneels before simplicity.
 ```
 
-## 📜 Repositories and Licenses 📚
+## 📜 Repositories and Licenses 📚 // To Be Done --
 
 ```
 {
