@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-```
+```bash
 name: guillehoyob
 alias: cybersmith
 location: Neo-Tokyo
