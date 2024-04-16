@@ -13,6 +13,7 @@ bio: ><br>
 &nbsp;&nbsp; Greetings, fellow netrunner! Welcome to my digital sanctum. I am but a mere ghost in the machine, wandering the neon-lit alleyways of Neo-Tokyo, seeking to unravel the secrets of the digital cosmos.<br>
 &nbsp;&nbsp; From the clandestine depths of machine learning algorithms to the creation of sentient digital entities, I've traversed it all. My quest? To carve a path towards a sleeker, smarter future, where complexity kneels before simplicity.
 </div>
+```
 
 ## 📜 Repositories and Licenses 📚
 
