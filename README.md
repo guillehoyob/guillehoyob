@@ -4,16 +4,19 @@
 
 ## About Me 🚀
 
+```
 name: guillehoyob
 alias: cybersmith
 location: Neo-Tokyo
 bio: >
   Greetings, fellow netrunner! Welcome to my digital sanctum. I am but a mere ghost in the machine, wandering the neon-lit alleyways of Neo-Tokyo, seeking to unravel the secrets of the digital cosmos.
   From the clandestine depths of machine learning algorithms to the creation of sentient digital entities, I've traversed it all. My quest? To carve a path towards a sleeker, smarter future, where complexity kneels before simplicity.
- 
+```
+
 ## 📜 Repositories and Licenses 📚
 
-```{
+```
+{
   "repositories": [
     {
       "name": "NeuralNetwork_Neuroevolution",
@@ -39,7 +42,8 @@ bio: >
 ❗ Disclaimer: While I am a purveyor of knowledge in the digital wilderness, I absolve myself of responsibility for the consequences of unbridled code. Navigate the neon labyrinth with caution, and may your code remain ever executable. 🙌
  
 ## Connect with Me 🌎
- 
+
+```
 social:
   - platform: Twitter
     username: @cybersmith
@@ -47,6 +51,7 @@ social:
     username: guillehoyob
   - platform: GitHub
     username: guillehoyob
+```
 
 Seeking fellow denizens of the datascape! If you're a digital nomad traversing the neon-drenched streets of technology, reach out to me through the digital aether or converge with me in the realms of social networks. Together, we shall sculpt the destiny of tomorrow's reality.
  
@@ -54,5 +59,7 @@ Seeking fellow denizens of the datascape! If you're a digital nomad traversing t
  
 ⭐ Thank you for interfacing with my profile! Remember, amidst the flickering neon of cyberspace, always remain true to the code. ⭐
 
+```
 How's that for a cyberpunk makeover?
+```
 -->
