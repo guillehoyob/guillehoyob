@@ -16,7 +16,7 @@ bio: >
 ```
 
 ## 📜 Repositories and Licenses 📚 // To Be Done --
-
+<!--
 ```
 {
   "repositories": [
@@ -38,6 +38,7 @@ bio: >
   ]
 }
 ```
+ -->
  
 🔍 Venture into the shadowy depths of my repositories, each guarded by its own digital sigil. Tread lightly, for within lies the forbidden knowledge of the digital age. Remember, every tool bears a responsibility; wield them wisely, for they possess the power to shape reality itself. 😇
 
